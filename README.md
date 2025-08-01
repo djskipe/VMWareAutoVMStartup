@@ -1,4 +1,3 @@
-Ecco la **versione perfettamente bilingue (IT/EN affiancato)** per il tuo README, con ogni sezione tradotta in parallelo per massima chiarezza:
 
 ---
 
