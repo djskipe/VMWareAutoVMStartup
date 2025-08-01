@@ -102,7 +102,7 @@ This **BAT script** automates:
 ---
 
 ## **📥 Download & GitHub**  
-🔗 **[Scarica l'ultima versione](https://github.com/tuorepo/VMware-Auto-Configurator)**  
+🔗 **[Scarica l'ultima versione](https://github.com/djskipe/VMWareAutoVMStartup/releases)**  
 
 ```bash
 git clone https://github.com/tuorepo/VMware-Auto-Configurator.git
